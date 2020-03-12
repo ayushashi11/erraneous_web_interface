@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pydoc</string>
+    <string name="hello_world">Stack will be here...</string>
+	<string name="submit">Submit</string>
+</resources>
